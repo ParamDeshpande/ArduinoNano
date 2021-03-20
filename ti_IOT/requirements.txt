@@ -10,7 +10,7 @@ filelock==3.0.12
 idna==2.10
 importlib-metadata==2.0.0
 importlib-resources==3.3.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Kivy==1.11.1
 Kivy-examples==1.11.1
 Kivy-Garden==0.1.4
